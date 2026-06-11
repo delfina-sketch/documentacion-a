@@ -41,9 +41,19 @@ Esta aplicación nos permite crear cucardas para todo el sitio, pudiendo adminis
       5.  **SKU:** En caso de optar por esta opción se desplegará un campo para completar el o los SKUs donde se mostrará esta cucarda. Debe completarse uno por linea. <br>
 
           <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
-      6.  **Descuentos:** En caso de optar por esta opción, sólo nos permitirá mostrar o no la leyenda. <br>
+      6. **Descuentos:** En caso de optar por esta opción, sólo nos permitirá mostrar o no la leyenda.&#x20;
+      7.
 
           <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+      8.  **Últimas unidades:** En caso de optar por esta opción, será necesario configurar el umbral de unidades mínimas para que comience a mostrarse.<br>
+
+          <figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+      9. **Stock en sucursal: Si se elegi esta opción, la cucarda se mostrará dependiendo la configuración de los campos:**
+         1. **Warehouse ID (debe tener stock):** Es el depósito para el que se activará la cucarda.&#x20;
+         2. **Stock minimo:** A partir de cuantas unidades se mostrará la cucarda.
+         3.  **Warehouse ID a excluir (opcional — debe tener stock = 0):** Si se completa, la cucarda solo aparece si ESTE warehouse NO tiene stock. Ej: cucarda "Retiro en MDVB" activa cuando MDVFC tiene stock pero inv\_uy no.<br>
+
+             <figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
    4.  **Apariencia del badge:** Desde aquí podemos administrar la apariencia de la cucarda. Tener en cuenta que la configuración se puede hacer de forma Global, como también sumar una configuración especial para mobile o PDP (Para esto, se debe activar la opción **Activar overide**)<br>
 
        <figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
