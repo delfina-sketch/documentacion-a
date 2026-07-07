@@ -24,8 +24,8 @@ En este apartado se detallan los componentes custom realizados para la home y co
 [shop-the-room.md](shop-the-room.md)
 {% endcontent-ref %}
 
-{% content-ref url="app-de-cucardas-autoadministrable.md" %}
-[app-de-cucardas-autoadministrable.md](app-de-cucardas-autoadministrable.md)
+{% content-ref url="app-de-cucardas-autoadministrable/" %}
+[app-de-cucardas-autoadministrable](app-de-cucardas-autoadministrable/)
 {% endcontent-ref %}
 
 {% content-ref url="footer.md" %}
